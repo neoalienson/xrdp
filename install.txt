@@ -38,7 +38,7 @@ files and location
 /etc/rsakeys.ini - rsa stuff
 /etc/xrdp.ini - xrdp configuration file
 /var/run/sesman.pid
-/var/rub/xrdp.pid
+/var/run/xrdp.pid
 
 Sesman and xrdp both have to be running as root.
 You should set them to start when the system starts.
